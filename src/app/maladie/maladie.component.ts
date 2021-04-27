@@ -7,9 +7,24 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MaladieComponent implements OnInit {
 
-  constructor() { }
+siteLocale:string;
+ 
+ 
+  constructor() {}
+
 
   ngOnInit(): void {
   }
 
+ 
+  cheminUrl(){
+  this.siteLocale = window.location.pathname.split('/')[1];
+  if(this.siteLocale==="en"){
+  return false;
+  }else{
+  return true;
+  }
 }
+
+}
+

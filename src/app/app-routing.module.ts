@@ -13,6 +13,7 @@ const routes: Routes = [
   { path: 'prevention', component: PreventionComponent },
   { path: 'maladie', component: MaladieComponent },
   { path: 'test', component: TestComponent },
+  { path: '**',   redirectTo: 'home', pathMatch: 'full' },
 ];
  // sets up routes constant where you define your routes
 

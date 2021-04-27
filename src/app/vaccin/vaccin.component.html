@@ -57,9 +57,35 @@
             </div>
             <div style="display: none;" class="err" class="text-danger" i18n>Selectionne au moin une </div>
             
-            <button class="btn btn-primary" type="submit" i18n>Submit</button>
+            <button class="btn btn-primary" type="submit" i18n (click)="onSubmit()">Submit</button>
             </div>
         </div>
           </form>
 	</div>
 </div>
+
+
+
+<div *ngIf="affiche">
+	<p>
+	nom: {{nom.value}}
+    </p>
+    <p>
+	prenom:{{prenom.value}}
+    </p>
+    <p>
+	email: {{email.value}}
+    </p>
+    <p>
+	numeroDeCarte: {{numeroDeCarte.value}}
+	</p>
+	<p>
+	telephone: {{telephone.value}}
+	</p>
+	<p>
+	secteur: {{secteur.value}}
+	</p>
+	<p>
+	communication: {{communication.value}}
+    </p>
+<div>

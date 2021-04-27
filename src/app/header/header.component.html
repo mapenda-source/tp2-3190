@@ -10,7 +10,8 @@
         <li class="nav-item"><a class="nav-link"  routerLink="/vaccin" i18n>vaccin</a></li>
         <li class="nav-item"><a class="nav-link"  routerLink="/prevention" i18n>prevention</a></li>
         <li class="nav-item"><a class="nav-link"  routerLink="/test" i18n>test</a></li>
-        <li class="nav-item"><a class="nav-link" href="https://www.who.int/fr" target="_blank" i18n>OMS</a></li>
+        <li class="nav-item" *ngIf="cheminUrl()"><a class="nav-link" href="https://www.who.int/fr" target="_blank" >OMS</a></li>
+        <li class="nav-item" *ngIf="!cheminUrl()"><a class="nav-link" href="https://www.who.int/en" target="_blank" >WHO</a></li>
       </ul>
     </div>
   </div>

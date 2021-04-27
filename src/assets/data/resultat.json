@@ -3,6 +3,17 @@
 {"localite":"saint hubert" , "total":"100" , "enfant":"20" , "adulte":"30" , "aine":"50"},
 {"localite":"mont-royal" , "total":"200" , "enfant":"40" , "adulte":"60" , "aine":"100"},
 {"localite":"viau" , "total":"400" , "enfant":"100" , "adulte":"100" , "aine":"200"},
-{"localite":"place des arts" , "total":"100" , "enfant":"20" , "adulte":"30" , "aine":"50"}
+{"localite":"place des arts" , "total":"100" , "enfant":"20" , "adulte":"30" , "aine":"50"},
+{"localite":"saint hubert" , "total":"100" , "enfant":"20" , "adulte":"30" , "aine":"50"},
+{"localite":"mont-royal" , "total":"200" , "enfant":"40" , "adulte":"60" , "aine":"100"},
+{"localite":"viau" , "total":"400" , "enfant":"100" , "adulte":"100" , "aine":"200"},
+{"localite":"place des arts" , "total":"100" , "enfant":"20" , "adulte":"30" , "aine":"50"},
+{"localite":"saint hubert" , "total":"100" , "enfant":"20" , "adulte":"30" , "aine":"50"},
+{"localite":"mont-royal" , "total":"200" , "enfant":"40" , "adulte":"60" , "aine":"100"},
+{"localite":"viau" , "total":"400" , "enfant":"100" , "adulte":"100" , "aine":"200"},
+{"localite":"saint lorent" , "total":"100" , "enfant":"20" , "adulte":"30" , "aine":"50"},
+{"localite":"saint hubert" , "total":"100" , "enfant":"20" , "adulte":"30" , "aine":"50"},
+{"localite":"mont-royal" , "total":"200" , "enfant":"40" , "adulte":"60" , "aine":"100"},
+{"localite":"viau" , "total":"400" , "enfant":"100" , "adulte":"100" , "aine":"200"}
 ]
 }

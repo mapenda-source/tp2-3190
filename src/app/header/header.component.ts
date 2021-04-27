@@ -23,5 +23,14 @@ export class HeaderComponent implements OnInit {
     this.siteLanguage = this.languageList.find(f => f.code === this.siteLocale).label;
   }
 
+  cheminUrl(){
+  this.siteLocale = window.location.pathname.split('/')[1];
+  if(this.siteLocale==="en"){
+  return false;
+  }else{
+  return true;
+  }
 
+
+}
 }

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="448835168208025423" datatype="html">
+        <source>CAMPAGNE DE VACCINATION</source>
+        <target>CAMPAGNE DE VACCINATION</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3476583629594890489" datatype="html">
+        <source>Accueil</source>
+        <target>Accueil</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8712125631224566581" datatype="html">
+        <source>maladie</source>
+        <target>maladie</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7550375897893749201" datatype="html">
+        <source>vaccin</source>
+        <target>vaccin</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="845056570220267666" datatype="html">
+        <source>prevention</source>
+        <target>prevention</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4677175911030006427" datatype="html">
+        <source>test</source>
+        <target>test</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="926306493113104898" datatype="html">
+        <source>OMS</source>
+        <target>OMS</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2347724151568473592" datatype="html">
+        <source>language</source>
+        <target>language</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7145738037156488865" datatype="html">
+        <source>Maladie</source>
+        <target>Maladie</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6861313580702969313" datatype="html">
+        <source>cela devient de plus en plus grave</source>
+        <target>cela devient de plus en plus grave</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8800695751673407427" datatype="html">
+        <source>Vaccin</source>
+        <target>Vaccin</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8986318987847774224" datatype="html">
+        <source>la campagne de vacination est en vigueur</source>
+        <target>la campagne de vacination est en vigueur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4292011669091665094" datatype="html">
+        <source>Mieux prevenir que guérir</source>
+        <target>Mieux prevenir que guérir</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6563391987554512024" datatype="html">
+        <source>Test</source>
+        <target>Test</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6890351642954838622" datatype="html">
+        <source>faire des tests vous rassure</source>
+        <target>faire des tests vous rassure</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4336995014933020239" datatype="html">
+        <source>l&apos;organissation mondail de la santé</source>
+        <target>l&apos;organissation mondail de la santé</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4452427314943113135" datatype="html">
+        <source>Previous</source>
+        <target>previous</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8190510726412517807" datatype="html">
+        <source>Diagnostic du virus</source>
+        <target>Diagnostic du virus</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/maladie/maladie.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8281428353173621972" datatype="html">
+        <source>Les infections à coronavirus sont diagnostiquées par les fournisseurs de soins de santé en fonction des symptômes présentés et sont confirmées au moyen d&apos;analyses en laboratoire..</source>
+        <target>Les infections à coronavirus sont diagnostiquées par les fournisseurs de soins de santé en fonction des symptômes présentés et sont confirmées au moyen d&apos;analyses en laboratoire..</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/maladie/maladie.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2807193952814178220" datatype="html">
+        <source>s&apos;il vous êtes malade</source>
+        <target>if you are sick</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/maladie/maladie.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6403511497864154500" datatype="html">
+        <source>Si vous avez des symptômes de la COVID-19 : 1. restez chez vous pour une période de 14 jours afin d&apos;éviter d&apos;infecter d&apos;autres personnes</source>
+        <target>Si vous avez des symptômes de la COVID-19 : 1. restez chez vous pour une période de 14 jours afin d&apos;éviter d&apos;infecter d&apos;autres personnes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/maladie/maladie.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="256570612222738982" datatype="html">
+        <source>symptôme</source>
+        <target>symptôme</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/maladie/maladie.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1333346315522580199" datatype="html">
+        <source>Les personnes infectées par la COVID-19 peuvent n&apos;avoir que peu ou pas de symptômes. Vous ne savez peut-être pas que vous avez des symptômes de la COVID-19 car ils peuvent s&apos;apparenter à ceux d&apos;un rhume ou d&apos;une grippe</source>
+        <target>
+          Les personnes infectées par la COVID-19 peuvent n&apos;avoir que peu ou pas de symptômes. Vous ne savez peut-être pas que vous avez des symptômes de la COVID-19 car ils peuvent s&apos;apparenter à ceux d&apos;un rhume ou d&apos;une grippe
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/maladie/maladie.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8071822552302937262" datatype="html">
+        <source>Vous rendez compte</source>
+        <target>Vous rendez compte</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/maladie/maladie.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5519645427147685386" datatype="html">
+        <source>Soyez conscient sur la pandémie</source>
+        <target>Soyez conscient sur la pandémie</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prevention/prevention.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3228840290085665520" datatype="html">
+        <source>Nos braves medecins et medecines passent des journée longue pendant la période du covide-19</source>
+        <target>Nos braves medecins et medecines passent des journée longue pendant la période du covide-19</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prevention/prevention.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7773487501923134987" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea sit eaque totam aliquid veritatis assumenda temporibus harum unde!</source>
+        <target>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea sit eaque totam aliquid veritatis assumenda temporibus harum unde!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prevention/prevention.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2181154762165715522" datatype="html">
+        <source>Gallery</source>
+        <target>Gallery</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prevention/prevention.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3698491221384194299" datatype="html">
+        <source>Future of the Internet</source>
+        <target>Future of the Internet</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prevention/prevention.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1254216537881151055" datatype="html">
+        <source>le vaccin ### est pret à l&apos;emploi. Plus de 100 milles exemplaire sont distribués</source>
+        <target>le vaccin ### est pret à l&apos;emploi. Plus de 100 milles exemplaire sont distribués</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prevention/prevention.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1442720600282694160" datatype="html">
+        <source>inscrit toi maintenant</source>
+        <target>inscrit toi maintenant</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prevention/prevention.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8599879955555799748" datatype="html">
+        <source> localite </source>
+        <target>localite</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/test/test.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1028191488555504744" datatype="html">
+        <source> total </source>
+        <target>total</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/test/test.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8140522015066008166" datatype="html">
+        <source> Enfant </source>
+        <target>Enfant</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/test/test.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7014068815625683705" datatype="html">
+        <source> Adulte </source>
+        <target>Adulte</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/test/test.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4822109098235941239" datatype="html">
+        <source> aine </source>
+        <target>aine</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/test/test.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5363451304863092478" datatype="html">
+        <source>Nom</source>
+        <target>Nom</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6238724704147750353" datatype="html">
+        <source>prenom</source>
+        <target>prenom</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5500260342945791959" datatype="html">
+        <source>numero de carte</source>
+        <target>numero de carte</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1559487871603418793" datatype="html">
+        <source>telephone</source>
+        <target>telephone</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7315714079098881460" datatype="html">
+        <source>email</source>
+        <target>email</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7802960548935896099" datatype="html">
+        <source>Mettre ta photo</source>
+        <target>Mettre ta photo </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4660717150875884894" datatype="html">
+        <source>secteur residentiel</source>
+        <target> secteur residential</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8644203562922437808" datatype="html">
+        <source>secteur non residentiel</source>
+        <target>secteur non residentiel</target>        
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8560987967850115371" datatype="html">
+        <source>préférence de communication</source>
+        <target>préférence de communication</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8268021232951468752" datatype="html">
+        <source>Courriel</source>
+        <target>Courriel</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9166158508244448249" datatype="html">
+        <source>Selectionne au moin une </source>
+          <target>Selectionne au moin une</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="935187492052582731" datatype="html">
+        <source>Submit</source>
+        <target>Submit</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
