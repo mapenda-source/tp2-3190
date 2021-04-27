@@ -2,15 +2,10 @@
   "name": "tp2",
   "version": "0.0.0",
   "scripts": {
-     "ng": "ng",
+    "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "lint": "ng lint i18n-demo",
-    "build:client-and-server-bundles-i18n": "ng run tp2:build:production-es && ng run tp2:build:production-en && ng run tp2:server:production",
-    "build:client-and-server-bundles": "ng build --prod && ng run tp2:server:production",
-    "build:ssr": "npm run build:client-and-server-bundles && npm run compile:server",
-    "build:i18n-ssr": "npm run build:client-and-server-bundles-i18n && npm run compile:server",
-    "compile:server": "tsc -p server.tsconfig.json",
     "serve:ssr": "node server.ts",
     "extract:int": "ng extract-i18n --output src/locale"
   },

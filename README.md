@@ -1,30 +1,20 @@
 # Tp2
+## voir la vidéo de demo: [video demo](https://drive.google.com/drive/folders/1g5_CuSx3KFXxXgAVbEVG3VrDLplNtkf0?usp=sharing)
 
-voir la video [video](./src/app/assets/video/demo-local.mp4)
+## installer angular/cli
+## installer les dépendances avec npm install
+## ng serve --configuration=fr version française
+## ng serve --configuration=en version anglaise
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
-## Development server
+## build project
 
-Run `ng serve --configuration=en` or `ng serve --configuration=fr`  for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## ng build --prod --localize
 
-## Code scaffolding
+cela produit un fichier dist.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+mettez le fichier assets dans dist/tp2-3190
 
-## Build
+## node server
 
-Run `ng build --prod --localize` to build the project. The build artifacts will be stored in the `dist/` directory. 
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
+http://localhost:3000
