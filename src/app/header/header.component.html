@@ -1,0 +1,28 @@
+<nav class="navbar navbar-expand-lg navbar-light">
+  <a class="navbar-brand d-lg-none"  routerLink="/home" i18n>CAMPAGNE DE VACCINATION</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigations-10" aria-controls="navigations-10" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+  <div class="collapse navbar-collapse" id="navigations-10">
+    <div class="d-flex w-100 flex-column flex-lg-row justify-content-beetween align-lg-items-center">
+      <a class="navbar-brand d-none d-lg-block col-4 mr-0 pl-0"  routerLink="/home" i18n>CAMPAGNE DE VACCINATION</a>
+      <ul class="navbar-nav mx-lg-auto col-4 justify-content-center">
+        <li class="nav-item"><a class="nav-link active"  routerLink="/home" i18n>Accueil</a></li>
+        <li class="nav-item"><a class="nav-link"  routerLink="/maladie" i18n>maladie</a></li>
+        <li class="nav-item"><a class="nav-link"  routerLink="/vaccin" i18n>vaccin</a></li>
+        <li class="nav-item"><a class="nav-link"  routerLink="/prevention" i18n>prevention</a></li>
+        <li class="nav-item"><a class="nav-link"  routerLink="/test" i18n>test</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://www.who.int/fr" target="_blank" i18n>OMS</a></li>
+      </ul>
+    </div>
+  </div>
+  <ng-container>
+        <mat-icon i18n>language</mat-icon>
+        <button mat-button [matMenuTriggerFor]="menu">
+            {{siteLanguage}}
+            <mat-icon>arrow_drop_down</mat-icon>
+        </button>
+        <mat-menu #menu="matMenu">
+            <a mat-menu-item href="/en/">English</a>
+            <a mat-menu-item href="/fr/">Français</a>
+        </mat-menu>
+    </ng-container>
+</nav>

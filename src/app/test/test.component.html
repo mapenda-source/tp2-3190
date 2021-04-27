@@ -1,0 +1,45 @@
+<h1>table</h1>
+<mat-form-field>
+  <mat-label>Filter</mat-label>
+  <input matInput (keyup)="applyFilter($event)" placeholder="Ex. ium" #input>
+</mat-form-field>
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8" matSort>
+
+  <!--- Note that these columns can be defined in any order.
+        The actual rendered columns are set as a property on the row definition" -->
+
+  <!-- Name Column -->
+  <ng-container matColumnDef="localite">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header i18n> localite </th>
+    <td mat-cell *matCellDef="let element"> {{element.localite}} </td>
+  </ng-container>
+
+  <!-- Weight Column -->
+  <ng-container matColumnDef="total">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header i18n> total </th>
+    <td mat-cell *matCellDef="let element"> {{element.total}} </td>
+  </ng-container>
+
+  <!-- Symbol Column -->
+  <ng-container matColumnDef="enfant">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header i18n> Enfant </th>
+    <td mat-cell *matCellDef="let element"> {{element.enfant}} </td>
+  </ng-container>
+
+   <ng-container matColumnDef="adulte">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header i18n> Adulte </th>
+    <td mat-cell *matCellDef="let element"> {{element.adulte}} </td>
+  </ng-container>
+
+    <ng-container matColumnDef="aine">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header i18n> aine </th>
+    <td mat-cell *matCellDef="let element"> {{element.aine}} </td>
+  </ng-container>
+
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+</table>
+
+
+<mat-paginator [pageSizeOptions]="[2,4,8]" showFirstLastButtons></mat-paginator>
