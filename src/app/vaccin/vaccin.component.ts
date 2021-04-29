@@ -24,7 +24,7 @@ loginForm = new FormGroup( {
   communication : new FormControl('' , Validators.required)
  })
 
-	 Sub(){
+	 onFormSubmit(){
 	 this.affiche=true;
 	 }
 

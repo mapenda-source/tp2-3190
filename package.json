@@ -7,7 +7,7 @@
     "build": "ng build",
     "lint": "ng lint i18n-demo",
     "serve:ssr": "node server.ts",
-    "extract:int": "ng extract-i18n --output src/locale"
+    "extract:int": "ng extract-i18n --output-path src/locale"
   },
   "private": true,
   "dependencies": {

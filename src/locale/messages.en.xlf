@@ -228,6 +228,22 @@
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit>
+        <trans-unit id="6024113902266021769" datatype="html">
+        <source>c&apos;est très sérieux!</source>
+        <target>it's serious</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prevention/prevention.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7906986814356338958" datatype="html">
+        <source>vaccination</source>
+        <target>vaccination</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prevention/prevention.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="7773487501923134987" datatype="html">
         <source>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea sit eaque totam aliquid veritatis assumenda temporibus harum unde!</source>
         <target>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea sit eaque totam aliquid veritatis assumenda temporibus harum unde!</target>
@@ -392,12 +408,13 @@
           <context context-type="linenumber">51</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="9166158508244448249" datatype="html">
-        <source>Selectionne au moin une </source>
-          <target>Select at least one</target>
+      </trans-unit>
+        <trans-unit id="2757017049936472422" datatype="html">
+        <source>Selectionne au moins une </source>
+        <target>select at least one</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/vaccin/vaccin.component.html</context>
-          <context context-type="linenumber">58</context>
+          <context context-type="linenumber">62</context>
         </context-group>
       </trans-unit>
       <trans-unit id="935187492052582731" datatype="html">
