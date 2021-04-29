@@ -52,7 +52,7 @@ import { ReactiveFormsModule } from '@angular/forms';
     MatTableModule,
     MatPaginatorModule,
     MatSortModule,
-     ReactiveFormsModule 
+    ReactiveFormsModule 
   ],
   providers: [],
   bootstrap: [AppComponent]

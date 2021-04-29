@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FormControl } from '@angular/forms'
+import { FormControl , FormGroup } from '@angular/forms'
 import { Validators } from '@angular/forms';
 @Component({
   selector: 'app-vaccin',
@@ -7,23 +7,27 @@ import { Validators } from '@angular/forms';
   styleUrls: ['./vaccin.component.css']
 })
 export class VaccinComponent implements OnInit {
-  affiche:any;
+affiche:any
+ constructor() { }
 
-  nom = new FormControl('' , Validators.required);
-  prenom = new FormControl('' , Validators.required);
-  email = new FormControl('' , Validators.required);
-  numeroDeCarte = new FormControl('' , Validators.required);
-  telephone = new FormControl('' , Validators.required);
-  secteur = new FormControl('' , Validators.required);
-  communication = new FormControl('' , Validators.required);
+  ngOnInit(): void {
+  
+  }
 
-	 onSubmit(){
+loginForm = new FormGroup( {
+  nom : new FormControl('' , [Validators.required,Validators.maxLength(24)]),
+  prenom : new FormControl('mapy' , [Validators.required,Validators.maxLength(24)]),
+  email : new FormControl('' , [Validators.required,Validators.email]),
+  numeroDeCarte : new FormControl('' , Validators.required),
+  telephone : new FormControl('' , Validators.required),
+  secteur : new FormControl('' , Validators.required),
+  communication : new FormControl('' , Validators.required)
+ })
+
+	 Sub(){
 	 this.affiche=true;
 	 }
 
-  constructor() { }
 
-  ngOnInit(): void {
-  }
 
 }
